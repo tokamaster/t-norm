@@ -1,6 +1,8 @@
 # t-norm
 Collection of t-norms in Python
 
+![image](evaluation.png)
+
 This is a work in progress.
 
 Requirements:
